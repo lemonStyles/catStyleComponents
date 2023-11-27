@@ -1,0 +1,16 @@
+{
+  "name": "cat-style-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  
+  "scripts": {
+    "start": "node @style/server.js",
+    "build": "node @style/@style.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.0"
+  }
+}

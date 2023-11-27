@@ -1,0 +1,24 @@
+{
+    "buildCode": [
+        {
+            "encryptionMode": "false",
+            "encryptionSettings": {
+                "compact": true,
+                "controlFlowFlattening": true,
+                "controlFlowFlatteningThreshold": 0.75,
+                "deadCodeInjection": true,
+                "deadCodeInjectionThreshold": 0.4,
+                "stringArrayEncoding": [
+                    "base64"
+                ],
+                "stringArrayWrappersCount": 2,
+                "stringArrayWrappersChainedCalls": true,
+                "stringArrayWrappersType": "function",
+                "stringArrayThreshold": 0.75,
+                "transformObjectKeys": true
+            }
+        }
+    ],
+    "defaultComponents": "home",
+    "defaultPage": "page1"
+}
